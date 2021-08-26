@@ -1,0 +1,658 @@
+{
+  "Characters": [
+    {
+      "id": 1001,
+      "name": "Jean",
+      "isCharacter": true,
+      "rarity": 5,
+      "element": "ANEMO",
+      "weaponType": "SWORD"
+    },
+    {
+      "id": 1002,
+      "name": "Diluc",
+      "isCharacter": true,
+      "rarity": 5,
+      "element": "PYRO",
+      "weaponType": "CLAYMORE"
+    },
+    {
+      "id": 1003,
+      "name": "Qiqi",
+      "isCharacter": true,
+      "rarity": 5,
+      "element": "CRYO",
+      "weaponType": "SWORD"
+    },
+    {
+      "id": 1004,
+      "name": "Keqing",
+      "isCharacter": true,
+      "rarity": 5,
+      "element": "ELECTRO",
+      "weaponType": "SWORD"
+    },
+    {
+      "id": 1005,
+      "name": "Mona",
+      "isCharacter": true,
+      "rarity": 5,
+      "element": "HYDRO",
+      "weaponType": "CATALYST"
+    },
+    {
+      "id": 1006,
+      "name": "Sucrose",
+      "isCharacter": true,
+      "rarity": 4,
+      "element": "ANEMO",
+      "weaponType": "CATALYST"
+    },
+    {
+      "id": 1007,
+      "name": "Chongyun",
+      "isCharacter": true,
+      "rarity": 4,
+      "element": "CRYO",
+      "weaponType": "CLAYMORE"
+    },
+    {
+      "id": 1008,
+      "name": "Kaeya",
+      "isCharacter": true,
+      "rarity": 4,
+      "element": "CRYO",
+      "weaponType": "SWORD"
+    },
+    {
+      "id": 1009,
+      "name": "Fischl",
+      "isCharacter": true,
+      "rarity": 4,
+      "element": "ELECTRO",
+      "weaponType": "BOW"
+    },
+    {
+      "id": 1010,
+      "name": "Beidou",
+      "isCharacter": true,
+      "rarity": 4,
+      "element": "ELECTRO",
+      "weaponType": "CLAYMORE"
+    },
+    {
+      "id": 1011,
+      "name": "Razor",
+      "isCharacter": true,
+      "rarity": 4,
+      "element": "ELECTRO",
+      "weaponType": "CLAYMORE"
+    },
+    {
+      "id": 1012,
+      "name": "Lisa",
+      "isCharacter": true,
+      "rarity": 4,
+      "element": "ELECTRO",
+      "weaponType": "CATALYST"
+    },
+    {
+      "id": 1013,
+      "name": "Noelle",
+      "isCharacter": true,
+      "rarity": 4,
+      "element": "GEO",
+      "weaponType": "CLAYMORE"
+    },
+    {
+      "id": 1014,
+      "name": "Ningguang",
+      "isCharacter": true,
+      "rarity": 4,
+      "element": "GEO",
+      "weaponType": "CATALYST"
+    },
+    {
+      "id": 1015,
+      "name": "Xingqiu",
+      "isCharacter": true,
+      "rarity": 4,
+      "element": "HYDRO",
+      "weaponType": "SWORD"
+    },
+    {
+      "id": 1016,
+      "name": "Barbara",
+      "isCharacter": true,
+      "rarity": 4,
+      "element": "HYDRO",
+      "weaponType": "CATALYST"
+    },
+    {
+      "id": 1017,
+      "name": "Bennett",
+      "isCharacter": true,
+      "rarity": 4,
+      "element": "PYRO",
+      "weaponType": "SWORD"
+    },
+    {
+      "id": 1018,
+      "name": "Xiangling",
+      "isCharacter": true,
+      "rarity": 4,
+      "element": "PYRO",
+      "weaponType": "POLEARM"
+    },
+    {
+      "id": 1019,
+      "name": "Amber",
+      "isCharacter": true,
+      "rarity": 4,
+      "element": "PYRO",
+      "weaponType": "SWORD"
+    },
+    {
+      "id": 1020,
+      "name": "Venti",
+      "isCharacter": true,
+      "rarity": 5,
+      "element": "ANEMO",
+      "weaponType": "BOW"
+    },
+    {
+      "id": 1021,
+      "name": "Klee",
+      "isCharacter": true,
+      "rarity": 5,
+      "element": "PYRO",
+      "weaponType": "CATALYST"
+    },
+    {
+      "id": 1022,
+      "name": "Tartaglia",
+      "isCharacter": true,
+      "rarity": 5,
+      "element": "HYDRO",
+      "weaponType": "SWORD"
+    },
+    {
+      "id": 1023,
+      "name": "Diona",
+      "isCharacter": true,
+      "rarity": 4,
+      "element": "CRYO",
+      "weaponType": "BOW"
+    },
+    {
+      "id": 1024,
+      "name": "Zhongli",
+      "isCharacter": true,
+      "rarity": 5,
+      "element": "GEO",
+      "weaponType": "POLEARM"
+    },
+    {
+      "id": 1025,
+      "name": "Xinyan",
+      "isCharacter": true,
+      "rarity": 4,
+      "element": "PYRO",
+      "weaponType": "CLAYMORE"
+    },
+    {
+      "id": 1026,
+      "name": "Albedo",
+      "isCharacter": true,
+      "rarity": 5,
+      "element": "GEO",
+      "weaponType": "SWORD"
+    },
+    {
+      "id": 1027,
+      "name": "Ganyu",
+      "isCharacter": true,
+      "rarity": 5,
+      "element": "CRYO",
+      "weaponType": "BOW"
+    },
+    {
+      "id": 1028,
+      "name": "Xiao",
+      "isCharacter": true,
+      "rarity": 5,
+      "element": "ANEMO",
+      "weaponType": "POLEARM"
+    },
+    {
+      "id": 1029,
+      "name": "Hu Tao",
+      "isCharacter": true,
+      "rarity": 5,
+      "element": "PYRO",
+      "weaponType": "POLEARM"
+    },
+    {
+      "id": 1030,
+      "name": "Rosaria",
+      "isCharacter": true,
+      "rarity": 4,
+      "element": "CRYO",
+      "weaponType": "POLEARM"
+    },
+    {
+      "id": 1031,
+      "name": "Yanfei",
+      "isCharacter": true,
+      "rarity": 4,
+      "element": "HYDRO",
+      "weaponType": "SWORD"
+    },
+    {
+      "id": 1032,
+      "name": "Eula",
+      "isCharacter": true,
+      "rarity": 5,
+      "element": "CRYO",
+      "weaponType": "CLAYMORE"
+    },
+    {
+      "id": 1033,
+      "name": "Kazuha",
+      "isCharacter": true,
+      "rarity": 5,
+      "element": "ANEMO",
+      "weaponType": "SWORD"
+    },
+    {
+      "id": 1034,
+      "name": "Ayaka",
+      "isCharacter": true,
+      "rarity": 5,
+      "element": "HYDRO",
+      "weaponType": "SWORD"
+    },
+    {
+      "id": 1035,
+      "name": "Yoimiya",
+      "isCharacter": true,
+      "rarity": 5,
+      "element": "PYRO",
+      "weaponType": "BOW"
+    },
+    {
+      "id": 1036,
+      "name": "Sayu",
+      "isCharacter": true,
+      "rarity": 4,
+      "element": "ANEMO",
+      "weaponType": "CATALYST"
+    }
+  ],
+  "Weapons": [
+    {
+      "id": 2001,
+      "name": "Skyward Harp",
+      "isCharacter": false,
+      "rarity": 5,
+      "weaponType": "BOW"
+    },
+    {
+      "id": 2002,
+      "name": "Skyward Atlas",
+      "isCharacter": false,
+      "rarity": 5,
+      "weaponType": "CATALYST"
+    },
+    {
+      "id": 2003,
+      "name": "Skyward Pride",
+      "isCharacter": false,
+      "rarity": 5,
+      "weaponType": "CLAYMORE"
+    },
+    {
+      "id": 2004,
+      "name": "Skyward Spine",
+      "isCharacter": false,
+      "rarity": 5,
+      "weaponType": "POLEARM"
+    },
+    {
+      "id": 2005,
+      "name": "Skyward Blade",
+      "isCharacter": false,
+      "rarity": 5,
+      "weaponType": "SWORD"
+    },
+    {
+      "id": 2006,
+      "name": "Amos' Bow",
+      "isCharacter": false,
+      "rarity": 5,
+      "weaponType": "BOW"
+    },
+    {
+      "id": 2007,
+      "name": "Lost Prayer to the Sacred Winds",
+      "isCharacter": false,
+      "rarity": 5,
+      "weaponType": "CATALYST"
+    },
+    {
+      "id": 2008,
+      "name": "Wolf's Gravestone",
+      "isCharacter": false,
+      "rarity": 5,
+      "weaponType": "CLAYMORE"
+    },
+    {
+      "id": 2009,
+      "name": "Primordial Jade Winged-Spear",
+      "isCharacter": false,
+      "rarity": 5,
+      "weaponType": "POLEARM"
+    },
+    {
+      "id": 2010,
+      "name": "Aquila Favonia",
+      "isCharacter": false,
+      "rarity": 5,
+      "weaponType": "SWORD"
+    },
+    {
+      "id": 2011,
+      "name": "Favonius Warbow",
+      "isCharacter": false,
+      "rarity": 4,
+      "weaponType": "BOW"
+    },
+    {
+      "id": 2012,
+      "name": "Sacrificial Bow",
+      "isCharacter": false,
+      "rarity": 4,
+      "weaponType": "BOW"
+    },
+    {
+      "id": 2013,
+      "name": "The Stringless",
+      "isCharacter": false,
+      "rarity": 4,
+      "weaponType": "BOW"
+    },
+    {
+      "id": 2014,
+      "name": "Rust",
+      "isCharacter": false,
+      "rarity": 4,
+      "weaponType": "BOW"
+    },
+    {
+      "id": 2015,
+      "name": "Favonius Codex",
+      "isCharacter": false,
+      "rarity": 4,
+      "weaponType": "CATALYST"
+    },
+    {
+      "id": 2016,
+      "name": "Sacrificial Fragments",
+      "isCharacter": false,
+      "rarity": 4,
+      "weaponType": "CATALYST"
+    },
+    {
+      "id": 2017,
+      "name": "The Widsith",
+      "isCharacter": false,
+      "rarity": 4,
+      "weaponType": "CATALYST"
+    },
+    {
+      "id": 2018,
+      "name": "Eye of Perception",
+      "isCharacter": false,
+      "rarity": 4,
+      "weaponType": "CATALYST"
+    },
+    {
+      "id": 2019,
+      "name": "Favonius Greatsword",
+      "isCharacter": false,
+      "rarity": 4,
+      "weaponType": "CLAYMORE"
+    },
+    {
+      "id": 2020,
+      "name": "Sacrificial Greatsword",
+      "isCharacter": false,
+      "rarity": 4,
+      "weaponType": "CLAYMORE"
+    },
+    {
+      "id": 2021,
+      "name": "The Bell",
+      "isCharacter": false,
+      "rarity": 4,
+      "weaponType": "CLAYMORE"
+    },
+    {
+      "id": 2022,
+      "name": "Rainslasher",
+      "isCharacter": false,
+      "rarity": 4,
+      "weaponType": "CLAYMORE"
+    },
+    {
+      "id": 2023,
+      "name": "Favonius Lance",
+      "isCharacter": false,
+      "rarity": 4,
+      "weaponType": "POLEARM"
+    },
+    {
+      "id": 2024,
+      "name": "Dragon's Bane",
+      "isCharacter": false,
+      "rarity": 4,
+      "weaponType": "POLEARM"
+    },
+    {
+      "id": 2025,
+      "name": "Favonius Sword",
+      "isCharacter": false,
+      "rarity": 4,
+      "weaponType": "SWORD"
+    },
+    {
+      "id": 2026,
+      "name": "Sacrificial Sword",
+      "isCharacter": false,
+      "rarity": 4,
+      "weaponType": "SWORD"
+    },
+    {
+      "id": 2027,
+      "name": "The Flute",
+      "isCharacter": false,
+      "rarity": 4,
+      "weaponType": "SWORD"
+    },
+    {
+      "id": 2028,
+      "name": "Lion's Roar",
+      "isCharacter": false,
+      "rarity": 4,
+      "weaponType": "SWORD"
+    },
+    {
+      "id": 2029,
+      "name": "Slingshot",
+      "isCharacter": false,
+      "rarity": 3,
+      "weaponType": "BOW"
+    },
+    {
+      "id": 2030,
+      "name": "Sharpshooter's Oath",
+      "isCharacter": false,
+      "rarity": 3,
+      "weaponType": "BOW"
+    },
+    {
+      "id": 2031,
+      "name": "Raven Bow",
+      "isCharacter": false,
+      "rarity": 3,
+      "weaponType": "BOW"
+    },
+    {
+      "id": 2032,
+      "name": "Emerald Orb",
+      "isCharacter": false,
+      "rarity": 3,
+      "weaponType": "CATALYST"
+    },
+    {
+      "id": 2033,
+      "name": "Thrilling Tales of Dragon Slayers",
+      "isCharacter": false,
+      "rarity": 3,
+      "weaponType": "CATALYST"
+    },
+    {
+      "id": 2034,
+      "name": "Magic Guide",
+      "isCharacter": false,
+      "rarity": 3,
+      "weaponType": "CATALYST"
+    },
+    {
+      "id": 2035,
+      "name": "Debate Club",
+      "isCharacter": false,
+      "rarity": 3,
+      "weaponType": "CLAYMORE"
+    },
+    {
+      "id": 2036,
+      "name": "Bloodtainted Greatsword",
+      "isCharacter": false,
+      "rarity": 3,
+      "weaponType": "CLAYMORE"
+    },
+    {
+      "id": 2037,
+      "name": "Ferrous Shadow",
+      "isCharacter": false,
+      "rarity": 3,
+      "weaponType": "CLAYMORE"
+    },
+    {
+      "id": 2038,
+      "name": "Black Tassel",
+      "isCharacter": false,
+      "rarity": 3,
+      "weaponType": "POLEARM"
+    },
+    {
+      "id": 2039,
+      "name": "Skyrider Sword",
+      "isCharacter": false,
+      "rarity": 3,
+      "weaponType": "SWORD"
+    },
+    {
+      "id": 2040,
+      "name": "Harbinger of Dawn",
+      "isCharacter": false,
+      "rarity": 3,
+      "weaponType": "SWORD"
+    },
+    {
+      "id": 2041,
+      "name": "Cool Steel",
+      "isCharacter": false,
+      "rarity": 3,
+      "weaponType": "SWORD"
+    },
+    {
+      "id": 2042,
+      "name": "Memory of Dust",
+      "isCharacter": false,
+      "rarity": 5,
+      "weaponType": "CATALYST"
+    },
+    {
+      "id": 2043,
+      "name": "Vortex Vanquisher",
+      "isCharacter": false,
+      "rarity": 5,
+      "weaponType": "POLEARM"
+    },
+    {
+      "id": 2044,
+      "name": "The Unforged",
+      "isCharacter": false,
+      "rarity": 5,
+      "weaponType": "CLAYMORE"
+    },
+    {
+      "id": 2045,
+      "name": "Summit Shaper",
+      "isCharacter": false,
+      "rarity": 5,
+      "weaponType": "SWORD"
+    },
+    {
+      "id": 2046,
+      "name": "Primordial Jade Cutter",
+      "isCharacter": false,
+      "rarity": 5,
+      "weaponType": "SWORD"
+    },
+    {
+      "id": 2047,
+      "name": "Staff of Homa",
+      "isCharacter": false,
+      "rarity": 5,
+      "weaponType": "POLEARM"
+    },
+    {
+      "id": 2048,
+      "name": "Elegy for the End",
+      "isCharacter": false,
+      "rarity": 5,
+      "weaponType": "BOW"
+    },
+    {
+      "id": 2049,
+      "name": "Song of Broken Pines",
+      "isCharacter": false,
+      "rarity": 5,
+      "weaponType": "CLAYMORE"
+    },
+    {
+      "id": 2050,
+      "name": "Freedom-Sworn",
+      "isCharacter": false,
+      "rarity": 5,
+      "weaponType": "SWORD"
+    },
+    {
+      "id": 2051,
+      "name": "Mistsplitter Reforged",
+      "isCharacter": false,
+      "rarity": 5,
+      "weaponType": "SWORD"
+    },
+    {
+      "id": 2052,
+      "name": "Thundering Pulse",
+      "isCharacter": false,
+      "rarity": 5,
+      "weaponType": "BOW"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 18d2ae450475e314c8d80e42cabfbcbe
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Butler Stencil
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 06134d39f435d6346a50686f47c0184e, type: 3}
+  - {fileID: 12800000, guid: 80aeae2edd5b91346ac8c3a771c993d7, type: 3}
+  - {fileID: 12800000, guid: 16d8867ad1f03d646b4c22a3ef21a2df, type: 3}
+  - {fileID: 12800000, guid: 266db8adb26f368468baace1541954b9, type: 3}
+  - {fileID: 12800000, guid: f1b97c045b163d241aa5f555ffe01df1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
